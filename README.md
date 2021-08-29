@@ -1,1 +1,1 @@
-# TyingTrainer
+# TypingTrainer
